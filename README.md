@@ -1,7 +1,7 @@
 ---
 title: "Academic/Industry Posters"
 author: "Emily Kubicek"
-date: "3/19/2020"
+date: "3_19_2020"
 output: html_document
 ---
 
