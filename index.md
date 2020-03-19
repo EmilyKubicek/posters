@@ -1,7 +1,7 @@
 
 ```markdown
 
-![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](/ASLMR_poster.jpg)
+![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA]("/ASLMR_poster.jpg")
 2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA
 
 
