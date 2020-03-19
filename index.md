@@ -1,14 +1,5 @@
 
 ```markdown
-/ASLMR_poster.jpg
-
-
-
-
-
-
-
-
 
 
 ## Welcome to GitHub Pages
