@@ -3,7 +3,6 @@ title: "Academic/Industry Posters"
 author: "Emily Kubicek"
 ---
 
-<center>
 ![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](https://github.com/EmilyKubicek/posters/blob/master/ASLMR_poster.jpg)
 2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA
 <br></br>
@@ -24,13 +23,12 @@ author: "Emily Kubicek"
 <br></br>
 <br></br>
 
-<center>
+
 ![2017 - Gallaudet University Research Expo - Gallaudet University](https://github.com/EmilyKubicek/posters/blob/master/PLD-Rotation_ResearchExpo2017.jpg)
 2017 - Gallaudet University Research Expo - Gallaudet University
 <br></br>
 <br></br>
 
-</center>
 
 ```markdown
 
