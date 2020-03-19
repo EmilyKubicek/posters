@@ -1,38 +1,9 @@
----
-title: "Academic/Industry Posters"
-author: "Emily Kubicek"
-output: html_document
----
+
 ```markdown
-<center>
+
 ![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](/ASLMR_poster.jpg)
 2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA
-<br></br>
-<br></br>
 
-![2019 - Disney's Data & Analytics Conference - Orlando, FL](/DDAC_poster.jpg)
-2019 - Disney's Data & Analytics Conference - Orlando, FL & Cognitive Neuroscience Society Annual Meeting - San Francisco, CA
-<br></br>
-<br></br>
-
-![2018 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](/postersasjpegs/CNS2018_poster.jpg)
-2018 - Cognitive Neuroscience Society Annual Meeting - Boston, MA
-<br></br>
-<br></br>
-
-![2018 - National Science of Learning Center Knowlege Festival (Action & Brain Lab) - Washington, DC](/postersasjpegs/KF_5.jpg)
-2018 - National Science of Learning Center Knowlege Festival (made for Action & Brain Lab) - Washington, DC
-<br></br>
-<br></br>
-
-<center>
-![2017 - Gallaudet University Research Expo - Gallaudet University](/postersasjpegs/PLD-Rotation_ResearchExpo2017.jpg)
-2017 - Gallaudet University Research Expo - Gallaudet University
-<br></br>
-<br></br>
-
-</center>
-```
 
 
 
@@ -52,7 +23,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
