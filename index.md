@@ -1,11 +1,5 @@
 
 ```markdown
----
-title: "Academic/Industry Posters"
-author: "Emily Kubicek"
-date: "3/19/2020"
-output: html_document
----
 
 <center>
 ![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](https://github.com/EmilyKubicek/posters/blob/master/ASLMR_poster.jpg)
