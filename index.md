@@ -3,7 +3,7 @@ title: "Academic/Industry Posters"
 author: "Emily Kubicek"
 output: html_document
 ---
-
+```markdown
 <center>
 ![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](/Users/e.kubicek/Documents/PEN/Conferences/postersasjpegs/ASLMR_poster.jpg)
 2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA
@@ -32,7 +32,7 @@ output: html_document
 <br></br>
 
 </center>
-
+```
 
 
 
