@@ -5,12 +5,12 @@ output: html_document
 ---
 ```markdown
 <center>
-![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](../postersasjpegs/ASLMR_poster.jpg)
+![2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA](/ASLMR_poster.jpg)
 2020 - Cognitive Neuroscience Society Annual Meeting - Boston, MA
 <br></br>
 <br></br>
 
-![2019 - Disney's Data & Analytics Conference - Orlando, FL](../postersasjpegs/DDAC_poster.jpg)
+![2019 - Disney's Data & Analytics Conference - Orlando, FL](/DDAC_poster.jpg)
 2019 - Disney's Data & Analytics Conference - Orlando, FL & Cognitive Neuroscience Society Annual Meeting - San Francisco, CA
 <br></br>
 <br></br>
